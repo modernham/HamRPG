@@ -2,7 +2,7 @@
 
 Multiplayer P2P RPG demo for amateur radio using KISS protocol. Built with Rust and the Bevy game engine.
 
-![Alt text](/screenshots/scr1.png?raw=true "Game screenshot")
+![Alt text](/screenshots/scr2.png?raw=true "Game screenshot")
 
 ## Features
 
@@ -68,7 +68,7 @@ cargo run --release
 
 Uses AX.25 KISS protocol with compact text encoding to minimize packet size for HF operation where data rates are typically 300 baud.
 
-![Alt text](/screenshots/scr2.png?raw=true "Game screenshot")
+![Alt text](/screenshots/scr1.png?raw=true "Game screenshot")
 
 ## Credits
 
