@@ -15,6 +15,9 @@ Multiplayer P2P RPG demo for amateur radio using KISS protocol. Built with Rust 
 
 ## Running the Game
 
+Releases:
+https://github.com/modernham/HamRPG/releases/tag/release
+
 ### Windows
 
 1. Download the windows-hamrpg.zip file from the releases page
