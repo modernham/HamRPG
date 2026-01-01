@@ -1,0 +1,19 @@
+[package]
+name = "hamrpg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+avian2d = "0.3.0"
+ax25 = "0.3.0"
+ax25_tnc = "0.3.0"
+bevy = "0.16.0"
+bevy_ecs_tiled = "0.7.0"
+bevy_ecs_tilemap = "0.16.0"
+bevy_egui = "0.34.1"
+crossbeam-channel = "0.5.15"
+iyes_perf_ui = "0.5.0"
+rand = "0.9.1"
+rust-ini = "0.21.1"
+serde = "1.0.219"
+serde_json = "1.0.140"
