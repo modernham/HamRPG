@@ -1,6 +1,6 @@
 # HamRPG
 
-Multiplayer P2P RPG demo for amateur radio using KISS protocol. Built with Rust and the Bevy game engine.
+Multiplayer P2P RPG demo for amateur radio using KISS over TCP. Built with Rust and the Bevy game engine.
 
 ![Alt text](/screenshots/scr2.png?raw=true "Game screenshot")
 
